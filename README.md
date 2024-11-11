@@ -5,9 +5,9 @@ Web Developer & Web Designer
 ----------------------------
 
 * 🌍  I'm based in Republic of Moldova
-* 🖥️  See my portfolio at [CiobanuT.com](http://CiobanuT.com) Coming soon
+* 🖥️  See my portfolio at [CiobanuT.com](http://CiobanuT.com)
 * ✉️  You can contact me at [iofesty@gmail.com](mailto:iofesty@gmail.com)
-* 🚀  I'm currently working on [My Portfolio Website](http://CiobanuT.com) Coming soon
+* 🚀  I am currently working on a project that is meant to help seafarers, on Laravel
 * 🧠  I'm learning Laravel | Tailwind | Astro js
 * 🤝  I'm open to collaborating on exciting projects as a Laravel backend developer
 
