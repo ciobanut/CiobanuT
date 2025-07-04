@@ -1,9 +1,9 @@
 # **Tudor Ciobanu**
 
 🌐 [Website/Portfolio](https://ciobanut.com)<br/>
-📧 Email: [tuciobanu@gmail.com](mailto:tuciobanu@gmail.com)
-📞 Phone: +373 61189770
-💬 Telegram: [@ciobanuT](https://t.me/ciobanuT)
+📧 Email: [tuciobanu@gmail.com](mailto:tuciobanu@gmail.com)<br/>
+📞 Phone: +373 61189770<br/>
+💬 Telegram: [@ciobanuT](https://t.me/ciobanuT)<br/>
 
 ## 👨‍💻 Fullstack Laravel Developer
 
