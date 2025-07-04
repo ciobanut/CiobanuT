@@ -45,7 +45,7 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 **Other:**
 
 * MySQL
-* Strong experience in WordPress
+* Also strong experience in WordPress, WooCommerce, Elementor
 
 ---
 
