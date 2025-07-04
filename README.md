@@ -18,8 +18,8 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 **Backend:**
 
 * Laravel, Livewire, Filament PHP
-* REST API, advanced validations
-* Eloquent, policies, migrations
+* REST API, advanced validations 
+* Eloquent, Socialite, policies, migrations, console commands, helpers
 
 **Frontend:**
 
@@ -28,24 +28,24 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 
 **DevOps:**
 
-* Docker Swarm 🐳, Composer
-* GitHub Actions CI/CD ⚙️
+* 🐳 Docker Swarm, Composer
+* ⚙️ GitHub Actions CI/CD 
 * Nginx, Varnish, Traefik
 * Redis, Minio, SSL, Ubuntu, NixOS
 * Git, SSH, Coolify, Dokploy
 
 **Search:**
 
-* Typesense, Laravel Scout 🔍
+* 🔍 Typesense, Laravel Scout 
 
 **Automation:**
 
-* Custom APIs, integration with n8n 🤖
+* 🤖 Custom APIs, integration with n8n 
 
 **Other:**
 
 * MySQL
-* Strong experience in WordPress 📝
+* Strong experience in WordPress
 
 ---
 
@@ -58,17 +58,3 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 ---
 
 📅 **Last updated:** July 2025
-
----
-
-
-
-
-
-### Technical Skills
-* Backend: Laravel, Livewire, Filament PHP, REST API, advanced validations, Eloquent, access policies, migrations
-* Frontend: Blade, Alpine.js, Tailwind CSS, Vite, MaryUI/DaisyUI, InstantSearch.js, Astro.js
-* DevOps: Docker Swarm, Composer, GitHub Actions CI/CD, Nginx, Varnish, Traefik, Redis, Minio, SSL, Ubuntu, NixOS, Git, ssh, Coolify, Dokploy
-* Search: Typesense, Laravel Scout
-* Automation: Custom APIs, n8n integration
-* Other: MySQL, extensive WordPress experience
