@@ -11,7 +11,6 @@
 
 Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. I build web applications from scratch, focusing on best practices, scalable architecture, and great user experience. I'm currently transitioning from freelance work to joining a professional team to advance my skills to an intermediate-senior level.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -46,8 +45,6 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 
 * MySQL
 * Also strong experience in WordPress, WooCommerce, Elementor
-
----
 
 ## 🌐 Languages
 
