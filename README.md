@@ -28,8 +28,8 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 
 **DevOps:**
 
-* 🐳 Docker Swarm, Composer
-* ⚙️ GitHub Actions CI/CD 
+* Docker Swarm, Composer
+* GitHub Actions CI/CD 
 * Nginx, Varnish, Traefik
 * Redis, Minio, SSL, Ubuntu, NixOS
 * Git, SSH, Coolify, Dokploy
