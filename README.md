@@ -101,9 +101,9 @@ Built a full-featured web platform from scratch in Laravel and deployed it on an
 
 ## 🌐 Languages
 
-* Romanian – native 🇷🇴
-* Russian – advanced (reading, writing, speaking) 🇷🇺
-* English – advanced (documentation, tutorials, forums, technical conversation) 🇬🇧
+* 🇷🇴 Romanian – native
+* 🇷🇺 Russian – advanced (reading, writing, speaking)
+* 🇬🇧 English – advanced (documentation, tutorials, forums, technical conversation)
 
 ---
 
@@ -117,7 +117,6 @@ To work in a team where I can focus more on **Laravel and frontend development**
 
 ---
 
-Dacă dorești o versiune PDF elegantă generată din acest format Markdown sau vrei să îl integrezi într-un site personal, pot ajuta și cu asta.
 
 
 
