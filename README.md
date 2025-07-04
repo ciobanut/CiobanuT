@@ -1,8 +1,7 @@
 Hi 👋 My name is Tudor Ciobanu
 ==============================
 
-Web Developer & Web Designer
-----------------------------
+### Web Developer & Web Designer
 
 * 🌍  I'm based in Republic of Moldova
 * 🖥️  See my portfolio at [CiobanuT.com](https://CiobanuT.com)
