@@ -1,7 +1,3 @@
-Sigur! Iată traducerea în limba engleză, în format Markdown și cu emoji-uri relevante adăugate pentru a evidenția anumite secțiuni și competențe:
-
----
-
 # **Tudor Ciobanu**
 
 🌐 [Website/Portfolio](https://ciobanut.com)
