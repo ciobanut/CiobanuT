@@ -19,8 +19,8 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 * Laravel, Livewire, Filament PHP
 * REST API, advanced validations 
 * Eloquent, Socialite, policies, migrations, console commands, helpers
-* 🔍 Typesense, Laravel Scout 
-* 🤖 Custom APIs, integration with n8n 
+* Typesense, Laravel Scout 
+* Custom APIs, integration with n8n 
 * MySQL
 
 **Frontend:**
