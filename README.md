@@ -19,11 +19,15 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 * Laravel, Livewire, Filament PHP
 * REST API, advanced validations 
 * Eloquent, Socialite, policies, migrations, console commands, helpers
+* 🔍 Typesense, Laravel Scout 
+* 🤖 Custom APIs, integration with n8n 
+* MySQL
 
 **Frontend:**
 
 * Blade, Alpine.js, Tailwind CSS, Vite
 * MaryUI / DaisyUI, InstantSearch.js, Astro.js
+* Also strong experience in WordPress, WooCommerce, Elementor
 
 **DevOps:**
 
@@ -32,19 +36,6 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 * Nginx, Varnish, Traefik
 * Redis, Minio, SSL, Ubuntu, NixOS
 * Git, SSH, Coolify, Dokploy
-
-**Search:**
-
-* 🔍 Typesense, Laravel Scout 
-
-**Automation:**
-
-* 🤖 Custom APIs, integration with n8n 
-
-**Other:**
-
-* MySQL
-* Also strong experience in WordPress, WooCommerce, Elementor
 
 ## 🌐 Languages
 
