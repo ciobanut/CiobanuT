@@ -22,7 +22,7 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 **Frontend:**
 
 * Blade, Tailwind CSS
-* Next.js, Astro.js
+* Next.js, Astro.js, React
 * Also strong experience in WordPress, WooCommerce, Elementor
 
 ## 🌐 Languages
