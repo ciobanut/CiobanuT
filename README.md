@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Fullstack Laravel Developer
 
-Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. I build web applications from scratch, focusing on best practices, scalable architecture, and great user experience. I'm currently transitioning from freelance work to joining a professional team to advance my skills to an intermediate-senior level.
+Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. I build web applications from scratch, focusing on best practices, and great user experience. I'm currently transitioning from freelance work to joining a professional team to advance my skills to an intermediate-senior level.
 
 
 ## 🛠️ Technical Skills
@@ -17,25 +17,13 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 **Backend:**
 
 * Laravel, Livewire, Filament PHP
-* REST API, advanced validations 
-* Eloquent, Socialite, policies, migrations, console commands, helpers
-* Typesense, Laravel Scout 
-* Custom APIs, integration with n8n 
 * MySQL
 
 **Frontend:**
 
-* Blade, Alpine.js, Tailwind CSS, Vite
-* MaryUI / DaisyUI, InstantSearch.js, Astro.js
+* Blade, Tailwind CSS
+* Next.js, Astro.js
 * Also strong experience in WordPress, WooCommerce, Elementor
-
-**DevOps:**
-
-* Docker, Swarm, Composer
-* GitHub Actions CI/CD 
-* Nginx, Varnish, Traefik
-* Redis, Minio, SSL, Ubuntu, NixOS
-* Git, SSH, Coolify, Dokploy
 
 ## 🌐 Languages
 
@@ -45,4 +33,4 @@ Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. 
 
 ---
 
-📅 **Last updated:** November 2025
+📅 **Last updated:** February 2026
