@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Fullstack Laravel Developer
 
-Self-taught Laravel developer with experience in Laravel, WordPress, and UI/UX. I build web applications from scratch, focusing on best practices, and great user experience. I'm currently transitioning from freelance work to joining a professional team to advance my skills to an intermediate-senior level.
+PHP developer with experience in Laravel and WordPress. I build web applications from scratch, focusing on best practices, and great user experience. I'm currently working with a professional team and advance my skills to the next level.
 
 
 ## 🛠️ Technical Skills
